@@ -12,6 +12,6 @@
 ![STATES](./design/desktop-design-step-4-monthly.jpg)
 ![STAETS](./design/desktop-design-step-4-yearly.jpg)
 ![STATES](./design/desktop-design-step-5.jpg)
-#### THIS ARE WHAT YOU SHOULD IN EACH STEP.
+#### THESE ARE WHAT YOU SHOULD IN EACH STEP.
 ##
 ## END OF MY README. THANKS.
